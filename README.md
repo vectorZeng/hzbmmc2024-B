@@ -1,4 +1,5 @@
 # hzbmmc2024-B
+
 2024年华中杯数学建模比赛 B题 使用行车轨迹估计交通信号灯周期问题
 
 成绩出来了，二等奖！！
@@ -15,9 +16,7 @@ geeker小付论文写得很好，建模手小徐也很棒！！
 
 我都没想到简单粗暴的代码能被队友润色成这样哈哈
 
-坐等小付的论文（^_^）
-
-希望九月能再次一起肝国赛！
+希望九月能再次一起肝国赛
 
 放一个自己整理的数学建模资料，虽然大部分都没用到，但是毕竟有备无患嘛
 
@@ -29,4 +28,6 @@ geeker小付论文写得很好，建模手小徐也很棒！！
 https://www.youtube.com/playlist?list=PLvce_oy4ggsHzrmgBz8vwQqRmezDOzo1N
 
 ![image](https://github.com/vectorZeng/hzbmmc2024-B/assets/128686005/9d92294b-4a26-4213-887c-8187b3188b41)
+
+some people come in your life for a reason, and some people come in your life for a season, just get used to it.
 
