@@ -31,5 +31,5 @@ https://www.youtube.com/playlist?list=PLvce_oy4ggsHzrmgBz8vwQqRmezDOzo1N
 
 ![image](https://github.com/vectorZeng/hzbmmc2024-B/assets/128686005/9d92294b-4a26-4213-887c-8187b3188b41)
 
-some people come in your life for a reason, and some people come in your life for a season, just get used to it.
+
 
