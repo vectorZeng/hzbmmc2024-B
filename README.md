@@ -1,6 +1,4 @@
-# hzbmmc2024-B
-
-## 2024年华中杯数学建模比赛 B题 使用行车轨迹估计交通信号灯周期问题
+# 2024年华中杯数学建模比赛 B题 使用行车轨迹估计交通信号灯周期问题
 
 成绩出来了，二等奖！！
 
@@ -20,12 +18,12 @@ geeker小付论文写得很好，建模手小徐也很棒！！
 
 希望九月能再次一起肝国赛
 
-放一个自己整理的数学建模资料，虽然大部分都没用到，但是毕竟有备无患嘛
+# 放一个自己整理的数学建模资料，虽然大部分都没用到，但是毕竟有备无患嘛
 
-链接：https://pan.baidu.com/s/1rkQtxcCQ3lrSDCvZYfmcdQ?pwd=1111 
+百度云链接：https://pan.baidu.com/s/1rkQtxcCQ3lrSDCvZYfmcdQ?pwd=1111 
 提取码：1111
 
-这是YouTube一个好心人上传的清风数学建模视频，清风的很多视频讲的比我学校的老师好哈哈，学到了很多
+# 这是YouTube一个好心人上传的清风数学建模视频，清风的很多视频讲的比我学校的老师好哈哈，学到了很多
 
 https://www.youtube.com/playlist?list=PLvce_oy4ggsHzrmgBz8vwQqRmezDOzo1N
 
